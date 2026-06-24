@@ -1,41 +1,15 @@
 [
   {
     "id": 1,
-    "name": "https://paste-your-image-link-here.com/shoe1.jpg",
-    "brand": "Nike",
-    "size": "Air Max 95",
-    "price": "EU 42 JOD",
-    "img": 55,
-    "condition": "Good",
-    "tag": "New In",
-    "desc": "Clean thrifted sneakers, ready to wear.",
-    "stock": 1,
-    "active": "yes"
-  },
-  {
-    "id": 2,
-    "name": "https://paste-your-image-link-here.com/shoe2.jpg",
-    "brand": "Adidas",
-    "size": "Campus Black",
-    "price": "EU 39 JOD",
-    "img": 45,
-    "condition": "Very Good",
-    "tag": "Available",
-    "desc": "Classic black Adidas pair in very good condition.",
-    "stock": 1,
-    "active": "yes"
-  },
-  {
-    "id": 3,
-    "name": "https://paste-your-image-link-here.com/shoe3.jpg",
-    "brand": "New Balance",
-    "size": "530 Silver",
-    "price": "EU 40 JOD",
-    "img": 60,
-    "condition": "Excellent",
-    "tag": "Featured",
-    "desc": "Lightweight everyday sneakers with a clean silver look.",
-    "stock": 1,
+    "name": "https://drive.google.com/uc?export=view&id=1DZ0XhmE6q6Pj6BevziFCqwzjgUnSuQlr",
+    "brand": "test",
+    "size": "test",
+    "price": "test JOD",
+    "img": "test",
+    "condition": "New",
+    "tag": "test",
+    "desc": "test",
+    "stock": "test",
     "active": "yes"
   }
 ]
