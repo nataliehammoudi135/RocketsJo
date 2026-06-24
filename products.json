@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "name": "https://drive.google.com/uc?export=view&id=1DZ0XhmE6q6Pj6BevziFCqwzjgUnSuQlr",
+    "name": "test",
     "brand": "test",
     "size": "test",
     "price": "test JOD",
-    "img": "test",
+    "img": "https://drive.google.com/uc?export=view&id=1DZ0XhmE6q6Pj6BevziFCqwzjgUnSuQlr",
     "condition": "New",
     "tag": "test",
     "desc": "test",
