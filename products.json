@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "test",
+    "brand": "test",
+    "size": "test",
+    "price": "test JOD",
+    "img": "https://res.cloudinary.com/dr90vjtiq/image/upload/v1782311590/Screen_Shot_2026-06-22_at_11.10.35_PM_nybxve.png",
+    "condition": "New",
+    "tag": "test",
+    "desc": "test",
+    "stock": "test",
+    "active": "yes"
+  }
+]
