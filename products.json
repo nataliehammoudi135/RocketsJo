@@ -16,7 +16,7 @@
     "id": 2,
     "name": "Adidas Samba",
     "brand": "Rockets",
-    "size": "25-50",
+    "size": "36-40",
     "price": "35 JOD",
     "img": "https://res.cloudinary.com/dr90vjtiq/image/upload/v1782314747/c82b74b00214_udogcj.webp",
     "condition": "New",
@@ -48,6 +48,19 @@
     "condition": "Good",
     "tag": "Available",
     "desc": "Clean thrifted sneakers in size 40, available now at Rockets.JO.",
+    "stock": 1,
+    "active": "yes"
+  },
+  {
+    "id": 5,
+    "name": "Vintage Sneakers",
+    "brand": "Rockets",
+    "size": "38",
+    "price": "55 JOD",
+    "img": "https://res.cloudinary.com/bmlv95va/image/upload/v1783178191/images_sydkgv.jpg",
+    "condition": "Good",
+    "tag": "Available",
+    "desc": "Clean thrifted sneakers in size 38, available now at Rockets.JO.",
     "stock": 1,
     "active": "yes"
   }
