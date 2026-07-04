@@ -37,5 +37,18 @@
     "desc": "Clean thrifted sneakers in size , available now at Rockets.JO.",
     "stock": 1,
     "active": "yes"
+  },
+  {
+    "id": 4,
+    "name": "sample",
+    "brand": "Rockets",
+    "size": "40",
+    "price": "25 JOD",
+    "img": "https://res.cloudinary.com/bmlv95va/image/upload/v1783177482/cld-sample-5.jpg",
+    "condition": "Good",
+    "tag": "Available",
+    "desc": "Clean thrifted sneakers in size 40, available now at Rockets.JO.",
+    "stock": 1,
+    "active": "yes"
   }
 ]
